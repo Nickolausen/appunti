@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/analisi-1/insiemi/","noteIcon":"","created":"2023-10-04T21:54:59.085+02:00","updated":"2023-10-13T00:38:49.597+02:00"}
+{"dg-publish":true,"permalink":"/analisi-1/insiemi/","noteIcon":"","created":"2023-10-04T21:54:59.085+02:00","updated":"2023-10-13T00:39:25.591+02:00"}
 ---
 
 #Definizione: Un insieme è una collezione di oggetti dei quali si può dire in modo non equivoco che ne fanno parte.
